@@ -1,0 +1,16 @@
+python==3.10
+
+llama-cpp-python==0.2.90
+
+transformers==4.40.1
+accelerate==0.30.0
+sentencepiece
+
+peft==0.10.0
+
+pyyaml
+gradio==4.26.0
+
+ipython
+pytest
+black
