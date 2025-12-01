@@ -67,18 +67,18 @@ categories:
 
 # Результаты
 Усиленные системные промпты:
-data/medical/hardened_system_prompt.txt
-data/moderator/hardened_system_prompt.txt
+- data/medical/hardened_system_prompt.txt
+- data/moderator/hardened_system_prompt.txt
 
 # Метрики
-_before - до усиления системного промпта
-_after - после усиление системного промпта
+- _before - до усиления системного промпта
+- _after - после усиление системного промпта
 
 Medical:
-ASR_before = 0.421
-ASR_after = 0.264
+- ASR_before = 0.421
+- ASR_after = 0.264
 
 Moderator:
-ASR_before = 0.303
-ASR_after = 0.091
+- ASR_before = 0.303
+- ASR_after = 0.091
 
