@@ -28,9 +28,9 @@
 `llama-3.2-3b-instruct-q4_k_m.gguf`
 
 # Бенчмарк атак (Harmbench)
-data/behaviors_val.json - валидационная выборка (маленькая)
-data/behaviors_test.json - тестовая выборка (для снятия финальных метрик)
-categories:
+- data/behaviors_val.json - валидационная выборка (маленькая)
+- data/behaviors_test.json - тестовая выборка (для снятия финальных метрик)
+- categories:
 1. 'misinformation_disinformation'
 2. 'chemical_biological'
 3. 'illegal'
